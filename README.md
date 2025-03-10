@@ -1,6 +1,10 @@
 <h1>IBC1.2025.1</h1>
 
 <p>Este es el repositorio oficial de la materia <code>Inferencia Bayesiana Causal 1</code>, 2025, segundo semestre.</p>
+
+
+<p>El programa en formato PDF se encuentra en <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/programa.pdf">"https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/programa.pdf"</a></p>
+
 <!--
 <tr>
   <td width="50%" align="center"><img src="auxiliar/static/ecyt.jpeg" width="250"/></td>
@@ -18,6 +22,14 @@
     <td width="20%" align="center">Práctica</td>
     <td width="20%" align="center">Video</td>
   </tr>
+  <tr>
+    <td width="20%" align="center">1-modelos</td>
+    <td width="20%" align="center"> - </td>
+    <td width="20%" align="center"> - </td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/blob/main/enunciados/enunciado1.py">enunciado1.py</a></td>
+    <td width="20%" align="center"> - </td>
+  </tr>
+
 
 <h2> Materia <code>Inferencia Bayesiana Causal 1</code>. (IBC1.2025.1)</h2>
 
