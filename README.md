@@ -27,9 +27,10 @@
     <td width="20%" align="center">1-modelos</td>
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/blob/main/enunciados/enunciado1.py">enunciado1.py</a></td>
     <td width="20%" align="center"> - </td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/teorica1-modelos.pdf">teorica1-modelos.pdf</a></td>
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica1.pdf">practica1.pdf</a>
     <br>
-    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica1.py">practica1.py</a></td>
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica1.py">practica1.py</a></td>
     <td width="20%" align="center"> - </td>
   </tr>
 
