@@ -27,11 +27,52 @@
     <td width="20%" align="center">1-modelos</td>
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/blob/main/enunciados/enunciado1.py">enunciado1.py</a></td>
     <td width="20%" align="center"> - </td>
-    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/teorica1-modelos.pdf">teorica1-modelos.pdf</a></td>
-    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica1.pdf">practica1.pdf</a>
+    <td width="20%" align="center">
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/teorica1-modelos.pdf">teorica1-modelos.pdf</a>
+    <td width="20%" align="center">
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica1.pdf">practica1.pdf</a>
     <br>
-    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica1.py">practica1.py</a></td>
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica1.py">practica1.py</a>
+    <br>
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/NoMontyHall.csv">NoMontyHall.csv</a>
+    </td>
     <td width="20%" align="center"> - </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">2 Inferencia exacta: ventajas.</td>
+    <td width="20%" align="center">
+    - <!--Pre-evaluación -->
+    </td>
+    <td width="20%" align="center">
+      <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Full linear model: PRML</a>
+      <br>
+      <a href="https://www.statlearning.com/">Clasic linear model: ISL</a>
+    </td>
+    <td width="20%" align="center">
+    - <!--Teórica-->
+    <td width="20%" align="center">
+    - <!--Practica-->
+    </td>
+    <td width="20%" align="center">
+    - <!--Video-->
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">3 Flujo de inferencia</td>
+    <td width="20%" align="center">
+    - <!--Pre-evaluación -->
+    </td>
+    <td width="20%" align="center">
+     - <!--Bibliografía-->
+    </td>
+    <td width="20%" align="center">
+    - <!--Teórica-->
+    <td width="20%" align="center">
+    - <!--Practica-->
+    </td>
+    <td width="20%" align="center">
+    - <!--Video-->
+    </td>
   </tr>
 
 
@@ -92,8 +133,8 @@ El problema real detrás de este problema de conocimiento es responder preguntas
 <ul>
 <li>Semana 1. Introducción a la especificación y evaluación de argumentos causales</li>
 <li>Semana 2. Inferencia exacta. Modelos conjugados. Regresión lineal bayesiana.</li>
-<li>Semana 3. Sorpresa: el problema de la comunicación con la realidad</li>
-<li> Semana 4. Teorías causales (o estructuras dinámicas), intervenciones y flujo de inferencia.</li>
+<li> Semana 3. Teorías causales (o estructuras dinámicas), intervenciones y flujo de inferencia.</li>
+<li>Semana 4. Sorpresa: el problema de la comunicación con la realidad</li>
 <li>Semana 5. Estrategias para la estimación pasiva de efectos causales.</li>
 <li>Semana 6. Buenos, neutrales y malos controles.</li>
 <li>Semana 7. La utilidad de los controles neutrales: efectos causales heterogéneos.</li>
