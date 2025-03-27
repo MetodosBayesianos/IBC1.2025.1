@@ -41,7 +41,8 @@
   </tr>
   <tr>
     <td width="20%" align="center">2 Inferencia exacta: ventajas.</td>
-    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/blob/main/enunciados/enunciado2.py">enunciado1.py</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/blob/main/enunciados/enunciado2.py">enunciado2.py</a>
+    </td>
     <td width="20%" align="center">
       <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Full linear model: PRML</a>
       <br>
@@ -50,7 +51,6 @@
     <td width="20%" align="center">
     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/2-exacta.pdf">teorica2-exacta.pdf</a>
     </td>
-    <td width="20%" align="center">
     <td width="20%" align="center">
     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica2.pdf">practica2.pdf</a>
     </td>
