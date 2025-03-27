@@ -29,6 +29,7 @@
     <td width="20%" align="center"> - </td>
     <td width="20%" align="center">
     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/teorica1-modelos.pdf">teorica1-modelos.pdf</a>
+    </td>
     <td width="20%" align="center">
     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica1.pdf">practica1.pdf</a>
     <br>
@@ -40,18 +41,18 @@
   </tr>
   <tr>
     <td width="20%" align="center">2 Inferencia exacta: ventajas.</td>
-    <td width="20%" align="center">
-    - <!--Pre-evaluación -->
-    </td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/blob/main/enunciados/enunciado2.py">enunciado1.py</a></td>
     <td width="20%" align="center">
       <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Full linear model: PRML</a>
       <br>
       <a href="https://www.statlearning.com/">Clasic linear model: ISL</a>
     </td>
     <td width="20%" align="center">
-    - <!--Teórica-->
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/2-exacta.pdf">teorica2-exacta.pdf</a>
+    </td>
     <td width="20%" align="center">
-    - <!--Practica-->
+    <td width="20%" align="center">
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica2.pdf">practica2.pdf</a>
     </td>
     <td width="20%" align="center">
     - <!--Video-->
