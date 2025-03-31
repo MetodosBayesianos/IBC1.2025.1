@@ -44,9 +44,9 @@
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2025.1/blob/main/enunciados/enunciado2.py">enunciado2.py</a>
     </td>
     <td width="20%" align="center">
-      <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Full linear model: PRML</a>
+      <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Bishop 2006 (2.3-2.3.6, cap 3)</a>
       <br>
-      <a href="https://www.statlearning.com/">Clasic linear model: ISL</a>
+      <a href="https://www.statlearning.com/">ISL (optativo)</a>
     </td>
     <td width="20%" align="center">
     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/2-exacta.pdf">teorica2-exacta.pdf</a>
@@ -63,7 +63,7 @@
   <tr>
     <td width="20%" align="center">3 Sorpresa. Comunicación con la realidad.</td>
     <td width="20%" align="center">
-    - <!--Pre-evaluación -->
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/blob/main/enunciados/enunciado3.py">enunciado3.py</a>
     </td>
     <td width="20%" align="center">
      <a href="https://github.com/glandfried/biblio/releases/download/teca/mackay2003.pdf">MacKay 2003. (1.1, 2.4-6, 4.1)</a>
@@ -85,7 +85,7 @@
     - <!--Pre-evaluación -->
     </td>
     <td width="20%" align="center">
-     - <!--Bibliografía-->
+     <a href="https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf">Neal 2020. (Cap 1-3)</a>
     </td>
     <td width="20%" align="center">
     - <!--Teórica-->
