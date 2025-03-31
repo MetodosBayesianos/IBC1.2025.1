@@ -85,7 +85,11 @@
     - <!--Pre-evaluación -->
     </td>
     <td width="20%" align="center">
-     <a href="https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf">Neal 2020. (Cap 1-3)</a>
+     <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Bishop 2006 (8.1, 8.2, 8.4)</a>
+     <br>
+     <a href="https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf">Neal 2020. (Cap 1 y 3)</a>
+     <br>
+     <a href="https://github.com/glandfried/biblio/releases/download/teca/kschischang2001.pdf">Kschischang 2001 (optativo)</a>
     </td>
     <td width="20%" align="center">
     - <!--Teórica-->
