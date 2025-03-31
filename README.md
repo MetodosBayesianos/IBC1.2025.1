@@ -53,13 +53,34 @@
     </td>
     <td width="20%" align="center">
     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica2.pdf">practica2.pdf</a>
+    <br>
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/materiales-practica2.zip">materiales-practica2.zip</a>
     </td>
     <td width="20%" align="center">
     - <!--Video-->
     </td>
   </tr>
   <tr>
-    <td width="20%" align="center">3 Flujo de inferencia</td>
+    <td width="20%" align="center">3 Sorpresa. Comunicación con la realidad.</td>
+    <td width="20%" align="center">
+    - <!--Pre-evaluación -->
+    </td>
+    <td width="20%" align="center">
+     <a href="https://github.com/glandfried/biblio/releases/download/teca/mackay2003.pdf">MacKay 2003. (1.1, 2.4-6, 4.1)</a>
+      <br>
+      <a href="https://homepage.sns.it/marmi/esameIUE/kelly.pdf">Kelly 1956 (intro)</a>
+    </td>
+    <td width="20%" align="center">
+    - <!--Teórica-->
+    <td width="20%" align="center">
+    - <!--Practica-->
+    </td>
+    <td width="20%" align="center">
+    - <!--Video-->
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">4 Flujo de inferencia</td>
     <td width="20%" align="center">
     - <!--Pre-evaluación -->
     </td>
