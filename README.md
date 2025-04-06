@@ -71,9 +71,9 @@
       <a href="https://homepage.sns.it/marmi/esameIUE/kelly.pdf">Kelly 1956 (intro)</a>
     </td>
     <td width="20%" align="center">
-    - <!--Teórica-->
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/teorica3-dato.pdf">teorica3-dato.pdf</a>
     <td width="20%" align="center">
-    - <!--Practica-->
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/practica3.zip">practica3.zip</a>
     </td>
     <td width="20%" align="center">
     - <!--Video-->
