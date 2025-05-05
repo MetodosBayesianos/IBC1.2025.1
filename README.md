@@ -92,7 +92,46 @@
      <a href="https://github.com/glandfried/biblio/releases/download/teca/kschischang2001.pdf">Kschischang 2001 (optativo)</a>
     </td>
     <td width="20%" align="center">
-    - <!--Teórica-->
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/4-flujo.pdf">4-flujo.pdf</a>
+    <td width="20%" align="center">
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/4-practica.pdf">4-practica.pdf</a>
+    <br>
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/4-practica.zip">4-practica.zip</a>
+    </td>
+    <td width="20%" align="center">
+    - <!--Video-->
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">5 Inferencia Causal</td>
+    <td width="20%" align="center">
+    - <!--Pre-evaluación -->
+    </td>
+    <td width="20%" align="center">
+     <a href="https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf">Neal 2020. (Cap 2, 4, 5 y 6)</a>
+    </td>
+    <td width="20%" align="center">
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/5-causa.pdf">5-causa.pdf</a>
+    <td width="20%" align="center">
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/5-practica.pdf">5-practica.pdf</a>
+    </td>
+    <td width="20%" align="center">
+    - <!--Video-->
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">Competencia de Datos</td>
+    <td width="20%" align="center">
+    - <!--Pre-evaluación -->
+    </td>
+    <td width="20%" align="center">
+     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/ACIC2016"><b>ACIC2016.pdf</b></a>
+     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/ACIC2017">ACIC2017.pdf</a>
+     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/ACIC2018">ACIC2018.pdf</a>
+     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/ACIC2022"><b>ACIC2022.pdf</b></a>
+    </td>
+    <td width="20%" align="center">
+    - <!--Teorica-->
     <td width="20%" align="center">
     - <!--Practica-->
     </td>
@@ -159,8 +198,8 @@ El problema real detrás de este problema de conocimiento es responder preguntas
 <ul>
 <li>Semana 1. Introducción a la especificación y evaluación de argumentos causales</li>
 <li>Semana 2. Inferencia exacta. Modelos conjugados. Regresión lineal bayesiana.</li>
-<li> Semana 3. Teorías causales (o estructuras dinámicas), intervenciones y flujo de inferencia.</li>
-<li>Semana 4. Sorpresa: el problema de la comunicación con la realidad</li>
+<li>Semana 3. Sorpresa: el problema de la comunicación con la realidad</li>
+<li> Semana 4. Flujo de inferencia, d-separation y estructuras causales dinámicas.</li>
 <li>Semana 5. Estrategias para la estimación pasiva de efectos causales.</li>
 <li>Semana 6. Buenos, neutrales y malos controles.</li>
 <li>Semana 7. La utilidad de los controles neutrales: efectos causales heterogéneos.</li>
