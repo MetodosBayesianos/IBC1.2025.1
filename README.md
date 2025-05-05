@@ -114,6 +114,7 @@
     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/5-causa.pdf">5-causa.pdf</a>
     <td width="20%" align="center">
     <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/5-practica.pdf">5-practica.pdf</a>
+    <a href="https://github.com/MetodosBayesianos/IBC1.2025.1/releases/download/materiales/ModeloLineal.py">ModeloLineal.py</a>
     </td>
     <td width="20%" align="center">
     - <!--Video-->
